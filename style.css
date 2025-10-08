@@ -1,0 +1,226 @@
+body {
+  background-image: url(/images/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Lineup Page Background */
+.lineup-hero {
+  background: url("https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=80");
+    
+  color: white;
+  text-align: center;
+  padding: 5em 2em;
+  background-attachment: fixed;
+  box-shadow: 0px 0px 60px #ff4081;
+  margin-bottom: 100px;
+}
+
+.artist-table-section {
+  padding: 2em;
+  text-align: center;
+  background: #1a1a1a;
+  box-shadow: 0px 0px 60px #ff4081;
+  margin-bottom: 30px;
+}
+
+.artist-table {
+  margin: 1em auto;
+  width: 80%;
+  border-collapse: collapse;
+  color: #fff;
+}
+
+.artist-table th,
+.artist-table td {
+  border: 1px solid #333;
+  padding: 0.8em;
+}
+
+.artist-table th {
+  background: #ff4081;
+}
+
+.top-artists {
+  padding: 3em 1em;
+  text-align: center;
+  background: #111;
+}
+
+.artist-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5em;
+  margin-top: 2em;
+}
+
+.artist-spot {
+  background: #222;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 250px;
+}
+
+.artist-spot img {
+  width: 100%;
+  display: block;
+}
+
+.artist-spot h3 {
+  padding: 0.8em;
+  background: #ff4081;
+  margin: 0;
+}
+
+.artist-spot:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 30px purple;
+}
+.h1lineup {
+  text-align: center;
+  color: #fff;
+}
+.h2lineup {
+  color: #fff;
+}
+footer {
+  color: #fff;
+  text-align: center;
+  background-color: #111;
+  font-weight: bolder;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: sticky;
+}
+
+.h2lineup2 {
+  color: #fff;
+}
+.h2lineup3 {
+  background-color: #2649b3;
+}
+.lineuppara {
+  background-color: #2649b3;
+}
+
+button {
+  cursor: pointer;
+}
+.h1index {
+  color: #fff;
+  text-align: center;
+}
+
+.h3class {
+  color: #fff;
+}
+.h4class {
+  color: #fff;
+}
+.h2index {
+  color: #fff;
+}
+
+.indexpara {
+  color: #fff;
+}
+
+.h2index1 {
+  color: #fff;
+  text-align: center;
+}
+.description {
+  color: #fff;
+}
+
+.aboutbody {
+  background-image: url(/images/photo-1470229722913-7c0e2dbbafd3.avif);
+}
+
+.div1 {
+  background: #1a1a1a;
+
+  width: 628px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 0 15px #8bb71c;
+  color: #cfb8b8;
+}
+.div2 {
+  color: #cfb8b8;
+  background-color: #1a1a1a;
+  width: 628px;
+  border-radius: 6px;
+  box-shadow: 0 0 15px #8bb71c;
+}
+
+.div3 {
+  color: #cfb8b8;
+  background-color: #1a1a1a;
+  width: 628px;
+  border-radius: 6px;
+  box-shadow: 0 0 15px #8bb71c;
+}
+
+.div4 {
+  color: #cfb8b8;
+
+  background-color: #1a1a1a;
+  width: 628px;
+  border-radius: 6px;
+  box-shadow: 0 0 15px #8bb71c;
+}
+.div5 {
+  color: #cfb8b8;
+
+  background-color: #1a1a1a;
+  width: 628px;
+  border-radius: 6px;
+  box-shadow: 0 0 15px #8bb71c;
+}
+
+.abouth1 {
+  color: #fff;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.mission {
+  color: antiquewhite;
+}
+.h1tickets{
+  color: aliceblue;
+  text-align: center;
+  padding-top: 8px;
+  background-color: #1a1a1a;
+}
+
+.ticketsbody{
+  background-image: url(/images/photo-1533174072545-7a4b6ad7a6c3.avif);
+}
+.h2ticket{
+  color:#fff;
+  text-align: center;
+  background-color: #111;
+}
+.pticket{
+  color:#fff
+}
+label{
+  color:#fff;
+}
+textarea{
+  height: 25px;
+}
+.quantity{
+  width: 100px;
+}
+.submit:hover
+{
+  color: yellow;
+  background-color: #1a1a1a;
+}
+/* end */
+
